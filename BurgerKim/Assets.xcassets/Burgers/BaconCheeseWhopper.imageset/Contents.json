@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "BaconCheeseWhopper.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

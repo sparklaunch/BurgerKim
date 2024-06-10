@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct BurgerKimApp: App {
+    @State private var cart = Cart()
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environment(cart)
         }
     }
 }

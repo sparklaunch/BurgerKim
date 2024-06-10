@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "BulgogiWhopperJunior.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
